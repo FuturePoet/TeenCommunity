@@ -1,0 +1,9 @@
+nav{
+    position: absolute;
+    display: inline-block;
+    justify-content: center;
+    padding-right: 40px;
+    background-color:rgb(238, 238, 238);
+    border-radius: 50%;
+    
+}
